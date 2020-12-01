@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XV/zD4YI3IGuB3FKhZ8TuGlXKFGlS01WOV7+OECyzcCbtAKb6ojHIl9hO5aqlV4KR/VWxI759Gi+UjGXCRJmew==",
+  "success": true,
+  "projectFilePath": "/home/mikolaj/MonogameNauka2/MonogameNauka2.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/root/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
